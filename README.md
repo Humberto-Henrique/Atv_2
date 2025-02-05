@@ -52,10 +52,3 @@ O código utiliza os pinos GPIO 11, 12 e 13 do Raspberry Pi Pico para controlar 
 3. **Sequência de LEDs**: A cada execução do alarme, alteramos o estado dos LEDs de acordo com a sequência.
 4. **Finalização do Ciclo**: O ciclo se repete uma vez por clique do botão e não pode ser reiniciado até que todos os LEDs tenham sido desligados.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
-
-## Contribuições
-
-Contribuições são bem-vindas! Para sugerir melhorias ou correções, por favor, abra uma *issue* ou envie um *pull request*.
